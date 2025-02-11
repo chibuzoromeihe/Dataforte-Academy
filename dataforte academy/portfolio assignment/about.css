@@ -1,0 +1,17 @@
+body {
+  padding: 30px;
+  background-color: darkslategray;
+}
+h1 {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.abt h2 {
+  color: goldenrod;
+  font-family: sans-serif;
+}
+.abt p {
+  color: white;
+  font-size: large;
+}

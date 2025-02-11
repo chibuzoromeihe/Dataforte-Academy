@@ -1,0 +1,18 @@
+body {
+  padding: 21px;
+  background-color: #fffff0;
+}
+.sect2 h1 {
+  color: red;
+  border-bottom: solid black;
+  border-top: solid black;
+  width: 150px;
+}
+.sect2 h2 {
+  width: 300px;
+  color: red;
+  font-weight: lighter;
+}
+.sect2 p {
+  font-weight: bold;
+}
